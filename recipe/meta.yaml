@@ -1,5 +1,5 @@
 {% set name = "torchinfo" %}
-{% set version = "1.6.4" %}
+{% set version = "1.6.5" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: e068cf16bcea5eb90fcb902afe8d36e8a4e1fe4bba15a0c2a6854f611fd977d2
+  sha256: 560fd35c3fbf54c22fd701f2c1a3ae123e0c0d3abdd25528f7d9fe369a6ed2e2
 
 build:
   number: 0
