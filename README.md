@@ -1,11 +1,11 @@
-About torchinfo
-===============
+About torchinfo-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/torchinfo-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/tyleryep/torchinfo
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/torchinfo-feedstock/blob/main/LICENSE.txt)
 
 Summary: Model summary in PyTorch, based off of the original torchsummary.
 
